@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.luoxiang2015.soulclientapi.services
 
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
+import com.github.luoxiang2015.soulclientapi.MyBundle
 
 class MyProjectService(project: Project) {
 
